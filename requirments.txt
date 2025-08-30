@@ -1,14 +1,3 @@
-streamlit>=1.28.0
-PyPDF2>=3.0.1
-pandas>=1.5.0
-sqlite3
-pathlib
-hashlib
-base64
-zipfile
-io
-tempfile
-datetime
-re
-typing
-os
+pandas
+scikit-learn
+streamlit
